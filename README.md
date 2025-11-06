@@ -16,3 +16,13 @@ It evaluates a password’s entropy, pattern complexity, and estimated crack tim
 - matplotlib
 
 ## 📊 Example Output
+Enter your password: ··········
+
+📊 Password Analysis Report:
+
+Password Score: 2 / 4
+
+Strength Level: ⚠️ Fair
+
+Estimated Crack Time: 17 minutes
+
