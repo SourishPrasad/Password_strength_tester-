@@ -13,7 +13,6 @@ It evaluates a password’s entropy, pattern complexity, and estimated crack tim
 - Python 3
 - Google Colab
 - zxcvbn
-- matplotlib
 
 ## 📊 Example Output
 Enter your password: ··········
